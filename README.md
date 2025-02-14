@@ -30,3 +30,9 @@ Ensure all parameters are correct, as they will be used for the actual deploymen
 ```shell
 make deploy
 ```
+
+## Security
+
+You can find all audit reports under the [audits](./audits) folder
+
+- [2025-02-08 - Pashov Audit Group](./audits/2025-02-08_PashovAuditGroup.pdf)
