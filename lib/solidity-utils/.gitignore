@@ -1,8 +1,0 @@
-cache/
-out/
-.idea
-.env
-broadcast
-node_modules
-package-lock.json
-zkout/
